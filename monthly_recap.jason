@@ -1,0 +1,46 @@
+[
+  {
+    "month": 1,
+    "monthTitle": "August 2025",
+    "sections": [
+      {
+        "title": "Global Equities",
+        "content": "MSCI World rose 1.3%. Developed Markets rose 1.2%, underperformed Emerging Markets, which up 1.7%. US Indices rallied with S&P 500 up 2.2% together with European Indices FTSE +4.2%, STOXX 600 +0.6%. Asian Indices: Hang Seng up 2.9% and CSI 300 up 3.5% KOSPI led 5.7%."
+      },
+      {
+        "title": "Your Must-Know Market Themes",
+        "content": "Four key themes that shaped markets this month:",
+        "themes": [
+          "Tariffs: President Trump escalated its tariff regime in July, targeting dozens of countries. Measures included a 50% levy on Brazilian goods announced 9 July (effective 1 August) and broadened tariffs—covering China, the EU, India, the UK, Australia, and others—ranging from 10% to 50% depending on country and sector. Mexico secured a 90-day extension before new tariffs take effect, following high-level negotiations aimed at avoiding disruption to integrated North American supply chains. The new tariff list notably included medical devices, pharmaceuticals, and related equipment, adding pressure on healthcare import costs and potentially raising prices for hospitals and patients.",
+          "Q2 Earnings: The Q2 reporting season delivered solid earnings beats with aggregate surprise at +7.3%.US tech and the Mag7 were the clear growth leaders, with outsized revenue and profit gains. AI-related demand remained a central drive, capex on data centres, cloud infrastructure, and semiconductor capacity helped push the AI investment theme higher. US  outperformed Europe on Q2 earnings growth, supported by stronger domestic demand, tech sector weight, and consumer resilience, while Europe’s results were weighed by weaker manufacturing and export headwinds. Tariff-exposed sectors, notably industrials, select consumer goods, and healthcare equipment, lagged the broader market as investors priced in potential cost pressures and demand shifts from escalating trade measures. ", 
+          "China Anti-involution: Beijing intensified its campaign to curb “involution”, the destructive cycle of cut-throat competition and price wars, by tightening regulation and discouraging unsustainable discounting in sectors such as EVs, consumer electronics, and technology. A new policy initiative targeted supply-side challenges, aiming to stabilise capacity, improve profitability, and boost strategic industries including materials, chemicals, and solar. By reducing excess capacity and enforcing production discipline, the measures could erode China’s pricing advantage in some global markets, potentially reshaping competitive dynamics for corporates worldwide. Still, investors remain cautious given persistent demand headwinds, weak property activity, and the risk that regulatory shifts could be unevenly enforced.",
+          "FED: The FOMC held the federal funds rate steady at its 30 July meeting, with two dissenting members voting for a 25 bp cut, the first such split recently. Tensions between President Trump and Chair Jerome Powell escalated, with Trump openly threatening to remove Powell from his position. The rhetoric triggered a sharp sell-off in rates markets amid fears over Federal Reserve independence, pushing yields higher and volatility wider. Adding to the drama, the government announced an investigation into recent Fed building renovations, framing it as a transparency and spending oversight issue. The Beige Book indicated moderate price and wage gains, slightly looser financial conditions, and generally flat-to-modest activity across consumer, business, manufacturing, and real estate sectors."
+        ]
+      },
+      {
+        "title": "US Equities",
+        "content": "US equities extended their post-Liberation Day recovery, driven by robust Q2 earnings and continued AI enthusiasm. Tech led gains, fuelled by strong Mag7 results and upbeat capex guidance, while easing US/China tech tensions supported sentiment. Cyclicals outperformed defensives, with banks benefiting from solid earnings, whereas healthcare and staples lagged amid tariff exposure and cost pressures. Semiconductor stocks rallied mid-month before retreating, and meme stocks gained on a broader short squeeze, capping momentum factor returns."
+      },
+      {
+        "title": "European Equities", 
+        "content": "European equities gained in July, partly reversing June’s sell-off, though moves were choppy due to a late US/EU trade deal and a weak start to Q2 earnings. Performance was mixed, with banks, travel & leisure, and energy leading, while media and other consumer-exposed sectors lagged. Defence stocks extended losses as Europe committed to purchasing US military equipment. Unlike in the US, defensives outperformed cyclicals. UK equities outperformed peers on a defensive tilt, a weaker GBP boosting exporters, and strong bank gains."
+      },
+      {
+        "title": "APAC Equities",
+        "content": "Asian equities rose, led by Korea on post-election gains and AI tailwinds. China’s onshore markets outperformed offshore amid gradual macro improvement, easing US tensions, and the rollout of “anti-involution” policies supporting industries like materials and chemicals. Offshore Chinese tech rebounded from earlier weakness, while biotech was the month’s top performer. Japan advanced on election-related optimism and a surprise US trade deal, with autos and banks rallying strongly. India lagged on tariff concerns. Semiconductors held steady after June’s rally, while the broader AI-theme maintained momentum regionally."
+      },
+      {
+        "title": "Foreign Exchange",
+        "content": "The US dollar staged a notable comeback, marking its first monthly gain of the year. The rebound was fuelled by crowded short positioning on the USD and improving US macro data, which reignited the US exceptionalism narrative. Major currencies, including the EUR, GBP, and JPY, weakened against the dollar, with the yen underperforming sharply after a dovish BoJ meeting. Emerging market FX also declined, though the drop was less severe than in developed market peers versus the USD."
+      },
+      {
+        "title": "Commodities",
+        "content": "Copper was the biggest laggard, plunging after Trump’s copper tariffs exempted refined copper, prompting an unwind of the tariff-driven premium. Precious metals were mixed, with gold  edging lower and silver gaining modestly. Energy was the strongest commodity segment, as Brent and WTI crude rallied, although natural gas weakness offset part of the broader energy gains."
+      },
+      {
+        "title": "Fixed Income",
+        "content": "US yields rose notably, driven by escalating tensions between President Trump and Fed Chair Powell. This sparked a sharp sell-off in rates on concerns over Fed independence. While the FOMC kept rates unchanged, Powell’s remarks were interpreted hawkishly, leading markets to reprice year-end cuts from 67bps to 33bps. In Europe, yields climbed further on strong macro data and a more hawkish ECB tone. In Japan, yields rose on both fiscal policy considerations post-election and inflationary pressures; the BoJ held rates in July but raised its CPI forecast, signalling a potential October cut after tariff uncertainties eased."
+      }
+    ]
+  }
+]
